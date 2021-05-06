@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "BootcampPractice.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BootcampPractice.ApplicationCore": "1.0.0"
+        },
+        "runtime": {
+          "BootcampPractice.Infrastructure.dll": {}
+        }
+      },
+      "BootcampPractice.ApplicationCore/1.0.0": {
+        "dependencies": {
+          "BootcampPractice.DTO": "1.0.0"
+        },
+        "runtime": {
+          "BootcampPractice.ApplicationCore.dll": {}
+        }
+      },
+      "BootcampPractice.DTO/1.0.0": {
+        "runtime": {
+          "BootcampPractice.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BootcampPractice.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BootcampPractice.ApplicationCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BootcampPractice.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
