@@ -1,0 +1,9 @@
+C:\Users\amaur\Desktop\Scio Bootcamp\Semana 3\DONET MVC\Clase 1\BootcampPractice\BootcampPractice.DTO\bin\Debug\netstandard2.1\BootcampPractice.DTO.deps.json
+C:\Users\amaur\Desktop\Scio Bootcamp\Semana 3\DONET MVC\Clase 1\BootcampPractice\BootcampPractice.DTO\bin\Debug\netstandard2.1\BootcampPractice.DTO.dll
+C:\Users\amaur\Desktop\Scio Bootcamp\Semana 3\DONET MVC\Clase 1\BootcampPractice\BootcampPractice.DTO\bin\Debug\netstandard2.1\BootcampPractice.DTO.pdb
+C:\Users\amaur\Desktop\Scio Bootcamp\Semana 3\DONET MVC\Clase 1\BootcampPractice\BootcampPractice.DTO\obj\Debug\netstandard2.1\BootcampPractice.DTO.csprojAssemblyReference.cache
+C:\Users\amaur\Desktop\Scio Bootcamp\Semana 3\DONET MVC\Clase 1\BootcampPractice\BootcampPractice.DTO\obj\Debug\netstandard2.1\BootcampPractice.DTO.AssemblyInfoInputs.cache
+C:\Users\amaur\Desktop\Scio Bootcamp\Semana 3\DONET MVC\Clase 1\BootcampPractice\BootcampPractice.DTO\obj\Debug\netstandard2.1\BootcampPractice.DTO.AssemblyInfo.cs
+C:\Users\amaur\Desktop\Scio Bootcamp\Semana 3\DONET MVC\Clase 1\BootcampPractice\BootcampPractice.DTO\obj\Debug\netstandard2.1\BootcampPractice.DTO.csproj.CoreCompileInputs.cache
+C:\Users\amaur\Desktop\Scio Bootcamp\Semana 3\DONET MVC\Clase 1\BootcampPractice\BootcampPractice.DTO\obj\Debug\netstandard2.1\BootcampPractice.DTO.dll
+C:\Users\amaur\Desktop\Scio Bootcamp\Semana 3\DONET MVC\Clase 1\BootcampPractice\BootcampPractice.DTO\obj\Debug\netstandard2.1\BootcampPractice.DTO.pdb
